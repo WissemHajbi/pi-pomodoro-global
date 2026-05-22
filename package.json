@@ -1,6 +1,6 @@
 {
   "name": "pi-pomodoro-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global Pomodoro timer extension for pi coding agent",
   "main": "pomodoro.ts",
   "type": "module",
